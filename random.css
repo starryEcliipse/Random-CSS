@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+@import url("https://fonts.googleapis.com/css?family=Bad+Script");
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("https://fonts.googleapis.com/css?family=Handlee");
+
+html {
+	font-family: Times New Roman;
+	background: #fefff9;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
+
+.na{
+  font-family: Josefin Sans;
+  background: #fceff3;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 35px;
+  border-style: groove;
+  border-color: #f9e0e7;
+  border-radius: 20px;
+  z-index: 1;
+  color: #dda1b1;
+
+}
+
+.na a{
+    color: #dda1b1;
+    font-size: 20px;
+}
+
+.na a:hover{
+  color: #e8a9ba;
+}
+
+.na a:visited{
+  color: #ffd3df;
+}
+
+aside{
+  display: block;
+  position: relative;
+  height: 500px;
+  width: 500px;
+  background: #fceff3;
+  border-style: ridge;
+  border-color: #fff4f8;
+  overflow-y: scroll;
+  text-align: left;
+  font-size: 22.5px;
+  -moz-border-radius: 500px;
+  -webkit-border-radius: =500px;
+  border-radius: 500px;
+  margin: 0 auto;
+  max-width: 90%;
+  max-height: 90%;
+
+}
+
+
+.ImportantPoints{
+  padding-top: 104px;
+  display: inline-block;
+  text-align: left;
+  font-family: Quicksand;
+  color: #bc627a;
+  font-weight: lighter;
+  font-size: 80%;
+  padding-left: 10%;
+  padding-right: 5%;
+
+}
+
+.ce{
+  text-align: center;
+  font-family: Handlee;
+  color: #bc627a;
+  font-weight: bold;
+  font-size: 80%;
+
+}
+
+.ImportantPoints a{
+  color: #d66f8a;
+}
+
+.ImportantPoints a:hover{
+  color: #ff89a8;
+
+}
+
+.ImportantPoints a:visited{
+  color: #e8c0cb;
+}
+
+#PageTitle {
+	font-family: Bad Script;
+	color: #f27697;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 55px;
+
+}
+
+.para{
+  font-family: Quicksand;
+  color: #891f3b;
+}
+
+.para a{
+  color: #d82958;
+}
+
+.para a:visited{
+  color: #e8c0cb;
+}
+
+.SectionTitle{
+  color: #560d26;
+  font-family: Times;
+  font-weight: bold;
+}
+
+.copyright {
+	font-family: "Courier New", Courier, monospace;
+	font-style: italic;
+	font-size: 8%;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	z-index: 10;
+}
+
+.copyright a{
+  color: #d82958;
+}
+
+.copyright a:visited{
+  color: #e8c0cb;
+}
