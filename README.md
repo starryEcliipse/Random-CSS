@@ -10,3 +10,8 @@ INSTRUCTIONS FOR RANDOM PPL WHO WANT TO SEE THIS IN THEIR BROWSER:
 4. Your browser is window is now pink.  
 
 
+See the [preview screenshot](https://github.com/starryEcliipse/Random-CSS/blob/master/CSS%20Preview.png) for an idea of how it will look (stuff appears more centered in the actual browser window).  
+
+
+
+
