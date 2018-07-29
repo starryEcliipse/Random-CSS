@@ -2,7 +2,7 @@
 Hello!! This repo contains html and css that I made when I was bored.  
 The css is very PINK.  
 
-INSTRUCTIONS FOR RANDOM PPL WHO WANT TO SEE THIS IN THEIR BROWSER:
+INSTRUCTIONS FOR PEOPLE WHO WANT TO SEE THIS IN THEIR BROWSER:
 
 1. Download both the css and the html files and save both to your computer **in the same folder.** (Or copy paste the code  into separate text files, **one file for the html, one for the css**. Whatever works. If you do this, save the html text as a **.html file** and the css as a **.css file**.
 2. Open your fav web browser (works best w/ chrome imo).
