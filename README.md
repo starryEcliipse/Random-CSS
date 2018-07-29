@@ -12,6 +12,10 @@ INSTRUCTIONS FOR PEOPLE WHO WANT TO SEE THIS IN THEIR BROWSER:
 
 See the [preview screenshot](https://github.com/starryEcliipse/Random-CSS/blob/master/CSS%20Preview.png) for an idea of how it will look (stuff appears more centered in the actual browser window).  
 
+This code is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license. [LINK] (https://creativecommons.org/licenses/by-nc/4.0/legalcode)  
+
+
+
 
 
 
